@@ -1,46 +1,33 @@
-# odin-recipes
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    
+    <title>Odin-Recipes</title>
   </head>
   
   <body>
-    <h1>Chicken Taco Lasagna</h1>
-    <img src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4551605.jpg&w=1200&h=678&c=sc&poi=face&q=60">
-  </body>
+    <center><h1 style="color:#BA4A00;">Welcome to My Favorite recipes!</h1>
+</center>
 
+  </head>
+
+  <center><img src="https://askfrankie.co/wp-content/uploads/2018/03/The-Best-Food-for-French-Bulldogs-Health-Allergies-and-Brands-to-Consider.jpg"width="550" 
+  height="400">
+  </center>
+
+
+</body>
+  
   <body>
-    <h1>Recipe</h1>
-   <p><strong>Cook:</strong> 1 hr 15 mins</p>
-   <p><strong>Prep:</strong> 20 mins</p>
-   <p><strong>Servings:</strong> 8</p>
-   <p><strong>Yield:</strong> 1 9x9-inch lasagna</p>
+    <h4>Welcome to some of my favorite recipes. Inspired by dishes traditionally made in Mexican homes, these recipes are easy and fun!</h4>
+    <ul>
+<li><a href="Chicken-Taco-Lasagna.html">Yummy Chicken Taco Lasagna</a></li>
+<li><a href="Grilled-Elote-Bowl.html">Grilled Elote Bowl</a></li>
+<li><a href="Mexican Birria">Authentic Mexican Birria</a></li>
+    </ul>
+    <a href="https://twitter.com/Mari_soul1">Follow me on twitter</a>
   </body>
-
-  <p>
-    <h1>Ingredients</h1>
-  </p>
-  <p><ul>
-    <li>4lbs of Chicken Breast - cut in 1/4in squares</li>
-  <li>1/2 cup lime juice</li>
-<li>2 (1oz) packets of taco seasoning mix</li>
-<li>1 1/2 cups shredded mozzarella cheese, divided</li>
-<li>1 cup sour cream</li>
-<li>1 cup salsa</li>
-<li>salt and ground black pepper to taste</li>
-<li>1 (8oz) pkg no-boil lasagna noodles, or to taste</li></p>
-<p>
-<h1>Directions</h1>
-  <ol>
-    <li>Combine Chicken, lime juice, and taco seasoning in a large bowl. Stir to make sure chicken is evenly covered.</li>
-    <li>Cook chicken mixture over medium heat until firm, about 15min.</li>
-<li>Mix 1/2 cup mozzarella cheese, sour cream, and salsa in a bowl. Season with salt and pepper.</li>
-<li>Put a few spoonfulls of the sour cream mixture in the bottom of the 9x9in baking pan. Layer noodles and chicken on top. Cover with mozzarella.</li>
-<li>Bake in a preheated oven until noodles are tender and cheese is melted, about 1hr.</li>
-  </ol>
-
-</p>
+    
+  </body>
 
 </html>
