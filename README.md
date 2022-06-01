@@ -26,7 +26,7 @@
 <li><a href="Grilled-Elote-Bowl.html">Grilled Elote Bowl</a></li>
 <li><a href="Mexican-Birria-Recipe.html">Authentic Mexican Birria</a></li>
     </ul>
-    <a href="https://twitter.com/Mari_soul1">Follow me on twitter</a>
+   
   </body>
     
   </body>
