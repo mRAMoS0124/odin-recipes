@@ -1,0 +1,12 @@
+#elote {
+    color: rgb(173, 157, 36);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+  }
